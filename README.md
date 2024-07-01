@@ -1,4 +1,6 @@
-## Hi there 👋
+## Welcome 👋
+
+- 🔭 I’m currently working on backend development
 
 <!--
 **cardoso-m/cardoso-m** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -13,6 +15,6 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=cardoso-m&show_icons=true&theme=transparent)
+-->
 [![Check out cardoso-m's profile on stardev.io](https://stardev.io/developers/cardoso-m/badge/languages/global.svg)](https://stardev.io/developers/cardoso-m)
