@@ -17,6 +17,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=cardoso-m&show_icons=true&theme=transparent)
 -->
-![Matheus Cardoso GitHub stats](https://github-readme-stats.vercel.app/api/top-langs?usernamevardoso-m&layout=compact&hide=html,scss,stylus,blade,jupyter%20notebook,python,css,shell,batchfile,dockerfile&theme=algolia&show_icons=true&langs_count=8)
+![Matheus Cardoso GitHub stats](https://github-readme-stats.vercel.app/api/top-langs?username=cardoso-m&layout=compact&hide=html,scss,stylus,blade,jupyter%20notebook,python,css,shell,batchfile,dockerfile&theme=algolia&show_icons=true&langs_count=8)
 
 [![Check out cardoso-m's profile on stardev.io](https://stardev.io/developers/cardoso-m/badge/languages/global.svg)](https://stardev.io/developers/cardoso-m)
