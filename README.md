@@ -1,22 +1,20 @@
-## Welcome 👋
+<div align="center">
+    <h1>--> Matheus Cardoso<--</h1>
+</div>
 
-- 🔭 I’m currently working on backend development
+<p align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Welcome+to+my+profile!;See+my+projects!&font=Fira%20Code&color=%23D62F79&center=true&width=280&height=50">
+</p>
 
-<!--
-**cardoso-m/cardoso-m** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+    - 🔭 I’m currently working on backend development
+</p>
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=cardoso-m&show_icons=true&theme=transparent)
--->
-![Matheus Cardoso GitHub stats](https://github-readme-stats.vercel.app/api/top-langs?username=cardoso-m&layout=compact&hide=html,scss,stylus,blade,jupyter%20notebook,python,css,shell,batchfile,dockerfile&theme=algolia&show_icons=true&langs_count=8)
+<div align="center">
+  
+  ![Matheus Cardoso GitHub stats](https://github-readme-stats.vercel.app/api/top-langs?username=cardoso-m&layout=compact&hide=html,scss,stylus,blade,jupyter%20notebook,python,css,shell,batchfile,dockerfile&theme=algolia&show_icons=true&langs_count=8)
 
-[![Check out cardoso-m's profile on stardev.io](https://stardev.io/developers/cardoso-m/badge/languages/global.svg)](https://stardev.io/developers/cardoso-m)
+  [![Check out Matheus Cardoso profile on stardev.io](https://stardev.io/developers/cardoso-m/badge/languages/locality.svg)](https://stardev.io/developers/cardoso-m)
+
+</div>
