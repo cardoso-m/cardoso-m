@@ -1,14 +1,11 @@
 <div align="center">
     <h1> --> Matheus Cardoso <-- </h1>
 </div>
-<p align="left">
-  <a href="#" title="Gmail">
-  <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=LINK-DO-SEU-GMAIL" alt="Gmail"/></a>
-  <a href="www.linkedin.com/in/matheus-d-cardoso" title="LinkedIn">
-  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=www.linkedin.com/in/matheus-d-cardoso" alt="LinkedIn"/></a>
-  <a href="#" title="Instagram">
-  <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link=LINK-DO-SEU-INSTAGRAM" alt="Instagram"/></a>
-</p>
+        
+[![Github Badge](https://img.shields.io/badge/-Github-000?style=for-the-badge&logo=Github&logoColor=white&link=https://github.com/lucasgdb)](https://github.com/cardoso-m)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rebeccamanzi/)](www.linkedin.com/in/matheus-d-cardoso)
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:rebeccamanzi@gmail.com)](mailto:mdonizetecardoso@gmail.com)
+[![Instagram Badge](https://img.shields.io/badge/-Instagram-C13584?style=for-the-badge&labelColor=C13584&logo=instagram&logoColor=white&link=https://www.instagram.com/codepwr/)](https://www.instagram.com/matheus.dcardoso/)
         
 <p align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?lines=Welcome+to+my+profile!;See+my+projects!&font=Fira%20Code&color=%23D62F79&center=true&width=280&height=50">
