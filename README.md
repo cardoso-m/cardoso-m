@@ -17,10 +17,11 @@
 
 <p align="center">
     - 🔭 I’m currently working on backend development
-    ### ⚙️ GitHub Analytics
 </p>
-
-
+<br>
+<p align="center">
+### ⚙️ GitHub Analytics
+</p>
 
 <div align="center">
   
