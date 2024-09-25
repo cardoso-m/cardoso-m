@@ -17,13 +17,20 @@
 
 <p align="center">
     - 🔭 I’m currently working on backend development
+    ### ⚙️ GitHub Analytics
 </p>
+
 
 
 <div align="center">
   
   ![Matheus Cardoso GitHub stats](https://github-readme-stats.vercel.app/api/top-langs?username=cardoso-m&layout=compact&hide=html,scss,stylus,blade,jupyter%20notebook,python,css,shell,batchfile,dockerfile&theme=algolia&show_icons=true&langs_count=8)
 
-  [![Check out Matheus Cardoso profile on stardev.io](https://stardev.io/developers/cardoso-m/badge/languages/locality.svg)](https://stardev.io/developers/cardoso-m)
+  <img
+        src="https://github-readme-stats.vercel.app/api?username=cardoso-m&theme=dark&hide_border=false&include_all_commits=true"
+        alt="Github Stats"
+      />
+
+  <!-- [![Check out Matheus Cardoso profile on stardev.io](https://stardev.io/developers/cardoso-m/badge/languages/locality.svg)](https://stardev.io/developers/cardoso-m) -->
 
 </div>
