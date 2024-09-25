@@ -27,7 +27,7 @@
   ![Matheus Cardoso GitHub stats](https://github-readme-stats.vercel.app/api/top-langs?username=cardoso-m&layout=compact&hide=html,scss,stylus,blade,jupyter%20notebook,python,css,shell,batchfile,dockerfile&theme=algolia&show_icons=true&langs_count=8)
 
   <img
-        src="https://github-readme-stats.vercel.app/api?username=cardoso-m&theme=dark&hide_border=false&include_all_commits=true"
+        src="https://github-readme-stats.vercel.app/api?username=cardoso-m&theme=dark&hide_border=false&include_all_commits=false"
         alt="Github Stats"
       />
 
