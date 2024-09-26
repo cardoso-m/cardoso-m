@@ -19,9 +19,9 @@
     - 🔭 I’m currently working on backend development
 </p>
 <br>
-<p align="center">
-### ⚙️ GitHub Analytics
-</p>
+<div align="center">
+<h3> ⚙️ GitHub Analytics </h3>
+</div>
 
 <div align="center">
   
